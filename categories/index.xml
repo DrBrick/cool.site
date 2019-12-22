@@ -21,14 +21,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>牛刀小试</title>
-      <link>https://example.com/categories/%E7%89%9B%E5%88%80%E5%B0%8F%E8%AF%95/</link>
-      <pubDate>Sun, 22 Dec 2019 13:42:41 +0800</pubDate>
-      
-      <guid>https://example.com/categories/%E7%89%9B%E5%88%80%E5%B0%8F%E8%AF%95/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

@@ -22,20 +22,11 @@
     </item>
     
     <item>
-      <title>ow</title>
-      <link>https://example.com/tags/ow/</link>
+      <title>about</title>
+      <link>https://example.com/tags/about/</link>
       <pubDate>Sun, 22 Dec 2019 13:42:41 +0800</pubDate>
       
-      <guid>https://example.com/tags/ow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>游戏</title>
-      <link>https://example.com/tags/%E6%B8%B8%E6%88%8F/</link>
-      <pubDate>Sun, 22 Dec 2019 13:42:41 +0800</pubDate>
-      
-      <guid>https://example.com/tags/%E6%B8%B8%E6%88%8F/</guid>
+      <guid>https://example.com/tags/about/</guid>
       <description></description>
     </item>
     

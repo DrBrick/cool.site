@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on 浪潮之巅#51409</title>
+    <link>https://example.com/tags/about/</link>
+    <description>Recent content in about on 浪潮之巅#51409</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2019 Notepadium.</copyright>
+    <lastBuildDate>Sun, 22 Dec 2019 13:42:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/posts/about/</link>
+      <pubDate>Sun, 22 Dec 2019 13:42:41 +0800</pubDate>
+      
+      <guid>https://example.com/posts/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
